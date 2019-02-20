@@ -1,2 +1,1 @@
-# GitHub_Api567A
-Restbased API assignmnt 4a
+[![build status of master](https://travis-ci.org/jinalbangur16/GitHub_Api567A.svg?branch=master)](https://travis-ci.org/jinalbangur16/GitHub_Api567A)
